@@ -281,7 +281,7 @@ print STDERR <<EOF ;
 #
 # CREATED:    2014/04/22
 # LAST MODIF: $lastmodif
-# AUTHOR:     Emeric ******** (INRA Clermont-Ferrand)
+# AUTHOR:     Emeric ********
 # VERSION:    $VERSION
 # PURPOSE:    This script is used to design non overlapping junctions 
 #             between TE/TE or TE/LowCopyDNA
